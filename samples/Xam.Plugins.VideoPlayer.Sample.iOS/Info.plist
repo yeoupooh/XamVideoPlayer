@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Xam.Plugins.VideoPlayer.Sample.iOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.Xam.Plugins.VideoPlayer.Sample.iOS</string>
+	<string>com.dltoolkit.forms.controls</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -48,5 +48,7 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<true/>
 	</dict>
+	<key>CFBundleName</key>
+	<string>Xam.Plugins.VideoPlayer.Sample.iOS</string>
 </dict>
 </plist>

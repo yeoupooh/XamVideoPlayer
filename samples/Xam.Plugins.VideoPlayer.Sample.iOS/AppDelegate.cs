@@ -1,6 +1,6 @@
 ﻿using Foundation;
 using UIKit;
-using Xam.Plugins.VideoPlayer;
+using Xam.Plugins.VideoPlayer.iOS;
 
 [assembly: Preserve(typeof(VideoPlayerRenderer))]
 
